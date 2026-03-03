@@ -1,5 +1,7 @@
 # AUTH48 for RFC-to-be XXXX <draft-XX> (in markdown)
 
+##Note: This repo may be out of date. RFC XXXX has been published; see the [info page](https://www.rfc-editor.org/info/rfcXXXX) to access the RFC and any related metadata.  
+
 This repository is for managing document updates for RFC XXXX during AUTH48. This is part of the [pilot GitHub-based process for AUTH48](https://www.rfc-editor.org/rpc/wiki/doku.php?id=rpc_github_roadmap), and it emulates the [current AUTH48 procedure](https://www.rfc-editor.org/pubprocess/auth48/). 
 
 Please see the [License](https://github.com/rfc-editor/SGtest-rfc0000/blob/Approved/LICENSE.md). The [IETF Note Well](https://github.com/rfc-editor/SGtest-rfc0000/blob/Approved/note-well.md) applies.
